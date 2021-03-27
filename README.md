@@ -5,7 +5,7 @@
 * [FAQ](#faq)<br>
 * [Useful links](#links)<br>
 <br>
-<b name="installation">How to install</b><br>
+<b name="installation" font-size='30px'>How to install</b><br>
 <a href='https://www.torproject.org/download/'>[1] Download TOR browser</a><br>
 <img src='step_one.png'><img src='tor_binary.png'>
 <p>[2] Specify the TOR binary path to TorShield</p>
@@ -15,7 +15,7 @@
 <br>
 <p name="knowhow">The script basically changes global proxy settings and enviroment variables using system commands and eventually api calls. Theres a known issue that windows socks routing may not work due to unknown reasons, however it may work on your machine. You can check if socks settings work using the command <b>curl ifconfig.me</b> which returns your IP address.</p>
 <br>
-<b name="faq" font-size='20px'>FAQ</b><br>
+<b name="faq" font-size='30px'>FAQ</b><br>
 <b>Does it protect all apps, not only browser?</b><br>
 Yes it does, socks proxy routes all applications traffic<br>
 <b>Are there any known issues?</b><br>
