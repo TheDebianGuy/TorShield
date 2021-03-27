@@ -1,5 +1,5 @@
 ## TorShield ~ Menu
-<img src='https://forthebadge.com/images/badges/open-source.svg' width='200px' height='30'></img>&nbsp;<img src='https://forthebadge.com/images/badges/works-on-my-machine.svg' width='200px' height='50'></img>
+<img src='https://forthebadge.com/images/badges/open-source.svg' width='200px' height='40'></img>&nbsp;<img src='https://forthebadge.com/images/badges/made-with-c-sharp.svg' width='200px' height='40'></img>
 * [Installation](#installation)<br>
 * [How does it work](#knowhow)<br>
 * [Useful links](#links)<br>
