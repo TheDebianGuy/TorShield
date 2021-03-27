@@ -30,7 +30,7 @@ git config --global --unset https.proxy
 <b>Are you going to continue developing this project?</b><br>
 With new TOR browser updates I may update this script depending on new TOR features<br>
 <br>
-<b name="links" font-size='30px'></b>
+<b name="links" font-size='30px'>Links</b>
 <pre>
 <a href='https://tb-manual.torproject.org'>TOR browser manual</a>
 <a href='https://github.com/torproject/tor/blob/master/LICENSE'>TOR project license</a>
