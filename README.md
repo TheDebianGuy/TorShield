@@ -1,4 +1,5 @@
 ## TorShield ~ Menu
+<img src='https://forthebadge.com/images/badges/made-with-c-plus-plus.svg' width='200px' height='50'></img>
 * [Installation](#installation)<br>
 * [How does it work](#knowhow)<br>
 * [Useful links](#links)<br>
