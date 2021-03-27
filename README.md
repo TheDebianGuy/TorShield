@@ -13,7 +13,8 @@
 <p>[3] Let your IP address be changed</p>
 <img src='duckduckgo.png'>
 <br>
-<p name="knowhow">The script basically changes global proxy settings and enviroment variables using system commands and eventually api calls. Theres a known issue that windows socks routing may not work due to unknown reasons, however it may work on your machine. You can check if socks settings work using the command <b>curl ifconfig.me</b> which returns your IP address.</p>
+<b name="knowhow" font-size='30px'>Info</b><br>
+<p>The script basically changes global proxy settings and enviroment variables using system commands and eventually api calls. Theres a known issue that windows socks routing may not work due to unknown reasons, however it may work on your machine. You can check if socks settings work using the command <b>curl ifconfig.me</b> which returns your IP address.</p>
 <br>
 <b name="faq" font-size='30px'>FAQ</b><br>
 <b>Does it protect all apps, not only browser?</b><br>
@@ -29,7 +30,8 @@ git config --global --unset https.proxy
 <b>Are you going to continue developing this project?</b><br>
 With new TOR browser updates I may update this script depending on new TOR features<br>
 <br>
-<pre name="links">
+<b name="links" font-size='30px'></b>
+<pre>
 <a href='https://tb-manual.torproject.org'>TOR browser manual</a>
 <a href='https://github.com/torproject/tor/blob/master/LICENSE'>TOR project license</a>
 <a href='https://www.avg.com/en/signal/proxy-server-definition'>How proxy works</a>
