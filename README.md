@@ -12,7 +12,7 @@
 <p>[3] Let your IP address be changed</p>
 <img src='duckduckgo.png'>
 <br>
-<p name="knowhow">The script basically changes global proxy settings and enviroment variables using system commands and eventually api calls. Theres a known issue that windows socks routing may not work due to unknown reasons, however it may work on your machine. You can check if socks settings work using the command `curl ifconfig.me` which returns your IP address.</p>
+<p name="knowhow">The script basically changes global proxy settings and enviroment variables using system commands and eventually api calls. Theres a known issue that windows socks routing may not work due to unknown reasons, however it may work on your machine. You can check if socks settings work using the command ```curl ifconfig.me``` which returns your IP address.</p>
 <br>
 <pre name="links">
 <a href='https://tb-manual.torproject.org'>TOR browser manual</a>
