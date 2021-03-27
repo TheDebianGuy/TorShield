@@ -44,4 +44,4 @@ With new TOR browser updates I may update this script depending on new TOR featu
 [ ] implement menu for torrc editing
 [ ] make gui (no electron bullshit)
 </pre>
-<p>Feel free to DM me on keybase or write me an email to request any additional features<br>PR's are open</p>
+<p>Feel free to DM me on keybase or write me an email to request any additional features<br>PRs are open</p>
