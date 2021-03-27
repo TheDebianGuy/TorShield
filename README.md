@@ -2,6 +2,7 @@
 <img src='https://forthebadge.com/images/badges/open-source.svg' width='200px' height='40'></img>&nbsp;<img src='https://forthebadge.com/images/badges/made-with-c-sharp.svg' width='200px' height='40'></img>
 * [Installation](#installation)<br>
 * [How does it work](#knowhow)<br>
+* [FAQ](#faq)<br>
 * [Useful links](#links)<br>
 <br>
 <b name="installation">How to install</b><br>
@@ -13,6 +14,20 @@
 <img src='duckduckgo.png'>
 <br>
 <p name="knowhow">The script basically changes global proxy settings and enviroment variables using system commands and eventually api calls. Theres a known issue that windows socks routing may not work due to unknown reasons, however it may work on your machine. You can check if socks settings work using the command <b>curl ifconfig.me</b> which returns your IP address.</p>
+<br>
+<b name="faq" font-size='20px'>FAQ</b><br>
+<b>Does it protect all apps, not only browser?</b><br>
+Yes it does, socks proxy routes all applications traffic<br>
+<b>Are there any known issues?</b><br>
+Yes, socks proxy may not work on windows for unknown reasons, 
+also theres a problem if you use git, you'll have to disable proxy for it after
+you stop using TorShield by typing following commands in cmd:
+<pre>
+git config --global --unset http.proxy 
+git config --global --unset https.proxy
+</pre><br>
+<b>Are you going to continue developing this project?</b><br>
+With new TOR browser updates I may update this script depending on new TOR features<br>
 <br>
 <pre name="links">
 <a href='https://tb-manual.torproject.org'>TOR browser manual</a>
