@@ -4,6 +4,7 @@
 * [How does it work](#knowhow)<br>
 * [FAQ](#faq)<br>
 * [Useful links](#links)<br>
+* [Planned features](#todo)<br>
 <br>
 <b name="installation" font-size='30px'>How to install</b><br>
 <a href='https://www.torproject.org/download/'>[1] Download TOR browser</a><br>
@@ -36,3 +37,11 @@ With new TOR browser updates I may update this script depending on new TOR featu
 <a href='https://github.com/torproject/tor/blob/master/LICENSE'>TOR project license</a>
 <a href='https://www.avg.com/en/signal/proxy-server-definition'>How proxy works</a>
 </pre>
+<br>
+<b name="todo" font-size='30px'>ToDo</b>
+<pre>
+[ ] 'restart' command to change IP address
+[ ] implement menu for torrc editing
+[ ] make gui (no electron bullshit)
+</pre>
+<p>Feel free to DM me on keybase or write me an email to request any additional features<br>PR's are open</p>
