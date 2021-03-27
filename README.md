@@ -25,7 +25,7 @@ you stop using TorShield by typing following commands in cmd:
 <pre>
 git config --global --unset http.proxy 
 git config --global --unset https.proxy
-</pre><br>
+</pre>
 <b>Are you going to continue developing this project?</b><br>
 With new TOR browser updates I may update this script depending on new TOR features<br>
 <br>
