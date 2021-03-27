@@ -1,5 +1,5 @@
 ## TorShield ~ Menu
-<img src='https://forthebadge.com/images/badges/open-source.svg' width='200px' height='40'></img>&nbsp;<img src='https://forthebadge.com/images/badges/made-with-c-sharp.svg' width='200px' height='40'></img>
+<img src='https://forthebadge.com/images/badges/open-source.svg' width='200px' height='40'></img>&nbsp;<img src='https://forthebadge.com/images/badges/made-with-c-sharp.svg' width='200px' height='40'></img><br>
 <b>Multiplatform TOR proxy</b><br>
 * [Installation](#installation)<br>
 * [How does it work](#knowhow)<br>
